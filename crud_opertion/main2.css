@@ -1,0 +1,60 @@
+body {
+    padding: 15px;
+}
+
+label {
+    margin-right: 35px;
+    margin-bottom: 20px;
+    width: 80px;
+    display: inline-block;
+}
+
+.inputText {
+    width: 270px;
+}
+
+#country {
+    width: 280px;
+}
+
+#rd {
+    margin-left: 122px;
+    margin-bottom: 20px;
+}
+
+.rLabel {
+    margin: 0px;
+}
+
+#sha {
+    display: inline-block;
+    margin-left: 155px;
+    margin-right: 85px;
+}
+
+#not {
+    display: inline-block;
+    width: 110px;
+    position: fixed;
+}
+
+.codeV {
+    margin-left: 117px;
+    margin-bottom: 20px;
+}
+
+#codeVs {
+    margin-left: 20px;
+}
+
+#textC {
+    width: 140px;
+}
+
+#cId {
+    margin-right: 0px;
+}
+
+table {
+    text-align: center;
+}
